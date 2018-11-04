@@ -1,0 +1,8 @@
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+venv/
+__pycache__/
+OpenCV-Tutorial/
+keras/
+
