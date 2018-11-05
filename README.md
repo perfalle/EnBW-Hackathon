@@ -34,3 +34,9 @@ Don't forget to push the changes to that file.
 
 ## Link collection
 https://github.com/opencv/opencv/tree/master/data/haarcascades
+
+Tutorial für cv dnn
+https://www.arunponnusamy.com/yolo-object-detection-opencv-python.html
+https://github.com/arunponnusamy/object-detection-opencv
+weights:
+https://pjreddie.com/media/files/yolov3.weights
