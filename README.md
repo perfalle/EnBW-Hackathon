@@ -31,3 +31,6 @@ Add name of packages to requirements.txt.
 pip freeze > requirements.txt
 ```
 Don't forget to push the changes to that file.
+
+## Link collection
+https://github.com/opencv/opencv/tree/master/data/haarcascades
